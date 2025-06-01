@@ -1,6 +1,6 @@
 #!/bin/sh
 
-GOOGLE_TAG="<!-- Google tag (gtag.js) --><script async src=\"https://www.googletagmanager.com/gtag/js?id=G-V361P3KSWH\"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-V361P3KSWH');</script>"
+# GOOGLE_TAG="<!-- Google tag (gtag.js) --><script async src=\"https://www.googletagmanager.com/gtag/js?id=G-V361P3KSWH\"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-V361P3KSWH');</script>"
 
 for filename in *.md; do
     [ -e "$filename" ] || continue
@@ -10,9 +10,9 @@ for filename in *.md; do
             --html-no-skiphtml \
             --html-no-escapehtml \
             --html-hardwrap \
-            -mtitle="Om Raheja - Entrepreneur & Software Engineer" \
+            -mtitle="Countering Misinformation Reading Group" \
             -mcss=style.css \
-            -M htmlheader='<meta name="description" content="Om Raheja. Entrepreneur and software engineer. High School North Class of 2026. Creator of aquarc and codeabode.">'"$GOOGLE_TAG" \
+            -M htmlheader='<meta name="description" content="Do you want to know the truth?.">'"$GOOGLE_TAG" \
             "$filename" > "$clean.html"
     else
         lowdown -s \
