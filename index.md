@@ -1,28 +1,28 @@
-<a href="blog/index.html">blog</a> &middot; <a href="use/Om-Raheja-Resume.pdf">resume</a>
+# Poverty is real. So are many other problems.
+## Do you want to know the truth?
 
----
-# I'm Om
+[85% of people worry that disinformation is a problem.](https://www.theguardian.com/technology/2023/nov/07/85-of-people-worry-about-online-disinformation-global-survey-finds).
 
-I'm an entrepreneur and a software engineer. I like to build stuff. 
+Without access to reliable information, science, politics, and the development of humanity comes to a stop.
 
-[![omraheja](use/omraheja.jpg)](https://omraheja.me)
+Don't you want to know the truth?
 
-[High School North](https://www.west-windsor-plainsboro.k12.nj.us/schools/high_school_north) Class of '26.
+Sign up through the Plainsboro Library (coming soon!)
 
-Highlights:
+[Get in touch: rahejaom (at) outlook (dot) com](mailto:rahejaom@outlook.com)
 
-1. [aquarc](https://aquarc.org)
-2. [codeabode](https://codeabode.co)
+--- 
 
-## Contact
+At Countering Disinformation, we engage in critical discussions to understand what's actually happening around us.
 
-1. Email: rahejaom (at) outlook (dot) com. My other emails don't work.
-2. [GitHub](https://github.com/om-raheja)
-3. [LinkedIn](https://www.linkedin.com/in/om-raheja-91a26b314/) (don't check)
+True and accurate information in today's society can be concealed under **many** layers.
 
-## Publication(s)
+- Complete lies: Social Media is an easy way for individuals to spread false information.
 
-1. [AutoFlow: *Automated Workflow Generation for Large Language Model Agents*](https://arxiv.org/abs/2407.12821)
+- Half Truths: Person A sneaks a kiss with Person B. Depending on whether they are in a relationship or not, this half truth has completely different implications.
 
----
-To the extent possible under law, Om Raheja has waived all copyright and related or neighboring rights to this website. This work is published from the United States.
+- Exaggerated truths: Yellow Journalism was prevalent during the Gilded Age and still is today, due to the rise in social media.
+
+More questions? Read our [plans](https://docs.google.com/document/d/1Bw6dwxU7Ml4RaM5P35Ijeii7Y0zObA7E2sUukCMom7Y/edit?usp=sharing).
+
+Email: rahejaom (at) outlook (dot) com
